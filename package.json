@@ -29,6 +29,6 @@
     "istanbul": "0.2.7"
   },
   "dependencies": {
-    "clone": "^0.1.11"
+    "clone": "0.1.11"
   }
 }
